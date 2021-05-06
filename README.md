@@ -1,4 +1,4 @@
-## Hi 👋, I'm Rafael.
+<p align="center">## Hi 👋, I'm Rafael.
 I'm a Web Developer, very fond of MongoDB. Passionate about coffee, javascript and soccer.
 
 I'm currently working for IntegraTI.
@@ -24,5 +24,5 @@ I'm learning at the moment ReactJS, MongoDB and NodeJS.
 ##⚡ GitHub Status
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpadu&show_icons=true&theme=dracula)](https://github.com/rafaelpadu)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpadu&show_icons=true&theme=dracula)](https://github.com/rafaelpadu)</p>
 
