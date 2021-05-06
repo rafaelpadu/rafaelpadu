@@ -26,4 +26,5 @@ I'm learning at the moment ReactJS, MongoDB and NodeJS.
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpadu&show_icons=true&theme=dracula)](https://github.com/rafaelpadu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpadu&layout=compact)](https://github.com/rafaelpadu)
 
