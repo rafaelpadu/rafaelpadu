@@ -20,3 +20,9 @@ I'm learning at the moment ReactJS, MongoDB and NodeJS.
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+##⚡ GitHub Status
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelpadu&show_icons=true&theme=dracula)](https://github.com/rafaelpadu)
+
